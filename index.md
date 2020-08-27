@@ -12,4 +12,4 @@ Regression analysis is the most commonly used statistical analysis tool.  In thi
 
 ## Lecture Slides
 
-* [Introduction]()
+* [Introduction](chapter1.html)
